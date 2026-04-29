@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE: 29.04.2026**
 
-**NAME:**
+**NAME: Hareni N**
 
-**ROLL NO:**
+**ROLL NO: 212224040096**
 
-**DEPARTMENT:**
+**DEPARTMENT: CSE**
 
 ## Aim
 
@@ -99,10 +99,16 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ## STM 32 CUBE PROGRAM
 
 ```
-// Your STM 32 CUBE Program code here
+
 ```
 
 ## OUTPUT
+
+<img width="481" height="639" alt="Screenshot 2026-04-29 133113" src="https://github.com/user-attachments/assets/38656f25-7611-43d2-9a48-63520c503665" />
+
+<img width="482" height="758" alt="Screenshot 2026-04-29 133102" src="https://github.com/user-attachments/assets/1f97126c-752a-4538-add5-0c18a97b9a49" />
+
+<img width="1375" height="816" alt="Screenshot 2026-04-29 133134" src="https://github.com/user-attachments/assets/307ae258-2542-4dbb-bb35-266b4f41be22" />
 
 ## Result
 
